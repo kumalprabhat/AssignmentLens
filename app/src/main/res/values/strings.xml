@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">AssignmentLens</string>
+    <string name="latest">Latest</string>
+    <string name="headlines">Headlines</string>
+    <string name="lorem_ipsum_the_national_single_window_system_has_access_to_over_100_central_level_approvals_and_state_single_window_systems_of_14_states_uts_with_one_user_id_and_password">  Lorem Ipsum The national single window system has access to over 100 central level approvals and state single window systems of 14 states/uTs with one user Id and password</string>
+    <string name="irpof_body_text">Indian Railways Promotee Officers Federation (IRPOF) is an organization of Promotee officers having its Head Quarter at New Delhi. It functions through its member associations. Zonal Associations functions through divisional bodies across all the 69 divisions of Indian Railways. The aim of the federation is to safeguard interests of promotee officers and provide better career opportunities and working conditions. It works for development and promoting overall efficiency in the working of Railways in the best interest of common people, the nation and the Railway Men.\n\nIRPOF has launched this site to keep its member informed about the, latest activities and share views on topics of importance. All the members are requested to kindly contribute to make the site useful and meaningful.</string>
+    <string name="irpof_header_text">Indian Railway Promotee Officers Federation (IRPOF)</string>
+    <string name="our_mission">Our Mission</string>
+    <string name="our_mission_body">Indian Railways Promotee Officers Federation (IRPOF) is an organization of Promotee officers having its Head Quarter at New Delhi. It functions through its member associations. Zonal Associations functions through divisional bodies across all the 69 divisions of Indian Railways.</string>
+    <string name="our_vision">Our Vision</string>
+    <string name="our_vision_body">Indian Railways Promotee Officers Federation (IRPOF) is an organization of Promotee officers having its Head Quarter at New Delhi. It functions through its member associations. Zonal Associations functions through divisional bodies across all the 69 divisions of Indian Railways.</string>
+    <string name="recent_events">Recent events</string>
+    <string name="recent_event_body_1">Indian Railways Promotee Officers Federation (IRPOF) is an organization of Promotee officers having its Head Quarter at New Delhi.</string>
+    <string name="published_on_10_02_24">Published On: 10/02/24</string>
+    <string name="view_details">View Details</string>
+    <string name="recent_event_body_2">Indian Railways Promotee Officers Federation (IRPOF) is an organization of Promotee officers having its Head Quarter at New Delhi.</string>
+    <string name="recent_event_body_3">Indian Railways Promotee Officers Federation (IRPOF) is an organization of Promotee officers having its Head Quarter at New Delhi.</string>
+    <string name="images">Images</string>
+    <string name="image_text">Following are the images from the recent event held on Friday, 19th January regarding ECM/AGM.</string>
+    <string name="view_more_btn">View More</string>
+    <string name="videos">Videos</string>
+</resources>
